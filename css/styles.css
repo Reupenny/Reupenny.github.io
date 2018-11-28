@@ -162,6 +162,7 @@ div.a2  {
     width: 11%;
     display: table-cell;
 }
+{
 @media only screen and (max-width: 45em) {
     .tftextinput{
     width:60%;
@@ -204,4 +205,4 @@ div.a2  {
 .tfbutton {
     width: 35%;
 }
-}
+    }}

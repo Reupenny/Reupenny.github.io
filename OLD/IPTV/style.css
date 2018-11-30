@@ -4,13 +4,8 @@
     padding: 0;
 }
 html    {
-        background-image: url("../images/Background%202.png");
     background-color: black;
-}
-body    {
-    padding-top: 10px;
-    padding-left: auto;
-    padding-right: auto;
+    background-image: none;
 }
 .sidenav {
     height: 100%;
@@ -56,4 +51,9 @@ a:hover {
 }
 .select:hover {
     background-color: #5d5d5d;
+}
+div.tv  {
+    width: 12.5%;
+    display: table-cell;
+
 }

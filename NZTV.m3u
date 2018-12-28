@@ -12,6 +12,18 @@ https://livestreamdirect-three.mediaworks.nz/three.m3u8
 #EXTINF:-1 tvg-id="tv.12" tvg-name="" tvg-logo="https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/2_FVsite_Bravo_1280x1280.png" group-title="New Zealand",BRAVO
 https://livestreamdirect-bravo.mediaworks.nz/bravo.m3u8
 
+#EXTINF:-1 tvg-name="Māori Television" tvg-id="tv.13" tvg-logo="http://iptv.matthuisman.nz/nz/images/tv.13.png",Māori Television
+http://iptv.matthuisman.nz/nz/tv.13.m3u8
+
+#EXTINF:-1 tvg-name="TVSN Shopping" tvg-id="tv.45" tvg-logo="http://iptv.matthuisman.nz/nz/images/tv.45.png",TVSN Shopping
+http://iptv.matthuisman.nz/nz/tv.45.m3u8
+
+#EXTINF:-1 tvg-name="Firstlight" tvg-id="tv.39" tvg-logo="http://iptv.matthuisman.nz/nz/images/tv.39.png",Firstlight
+rtmp://streamer1.streamhost.org/salive/GMIFLNL
+
+#EXTINF:-1 tvg-name="Parliament TV" tvg-id="tv.18" tvg-logo="http://iptv.matthuisman.nz/nz/images/tv.18.png",Parliament TV
+http://iptv.matthuisman.nz/nz/tv.18.m3u8
+
 #EXTINF:-1 tvg-id="tv.51" tvg-name="" tvg-logo="https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/TheEdge-Web-1.png" group-title="New Zealand",EDGETV
 https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
 

@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="tv.9" tvg-name="" tvg-logo="https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/TVNZ11280x1280.png" group-title="New Zealand",TV ONE
 https://d2vbukhvwwnst7.cloudfront.net/master.m3u8
 
-#EXTINF:-1 tvg-id="tv.10" tvg-name="" tvg-logo="https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/TVNZ21280x1280.png" group-title="New Zealand",TV 2
+#EXTINF:-1 tvg-id="tv.10" tvg-name="" tvg-logo="https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/TVNZ21280x1280.png" group-title="New Zealand",TV TWO
 https://ditqhbg3dqptg.cloudfront.net/master.m3u8
 
 #EXTINF:-1 tvg-id="tv.11" tvg-name="" tvg-logo="https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/Web_THREE_1280x1280.png" group-title="New Zealand",THREE
@@ -12,17 +12,8 @@ https://livestreamdirect-three.mediaworks.nz/three.m3u8
 #EXTINF:-1 tvg-id="tv.12" tvg-name="" tvg-logo="https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/2_FVsite_Bravo_1280x1280.png" group-title="New Zealand",BRAVO
 https://livestreamdirect-bravo.mediaworks.nz/bravo.m3u8
 
-#EXTINF:-1 tvg-name="Māori Television" tvg-id="tv.13" tvg-logo="http://iptv.matthuisman.nz/nz/images/tv.13.png",Māori Television
+#EXTINF:-1 tvg-id="tv.13" tvg-name="" tvg-logo="http://iptv.matthuisman.nz/nz/images/tv.13.png" group-title="New Zealand",Māori Television
 http://iptv.matthuisman.nz/nz/tv.13.m3u8
-
-#EXTINF:-1 tvg-name="TVSN Shopping" tvg-id="tv.45" tvg-logo="http://iptv.matthuisman.nz/nz/images/tv.45.png",TVSN Shopping
-http://iptv.matthuisman.nz/nz/tv.45.m3u8
-
-#EXTINF:-1 tvg-name="Firstlight" tvg-id="tv.39" tvg-logo="http://iptv.matthuisman.nz/nz/images/tv.39.png",Firstlight
-rtmp://streamer1.streamhost.org/salive/GMIFLNL
-
-#EXTINF:-1 tvg-name="Parliament TV" tvg-id="tv.18" tvg-logo="http://iptv.matthuisman.nz/nz/images/tv.18.png",Parliament TV
-http://iptv.matthuisman.nz/nz/tv.18.m3u8
 
 #EXTINF:-1 tvg-id="tv.51" tvg-name="" tvg-logo="https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/TheEdge-Web-1.png" group-title="New Zealand",EDGETV
 https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
@@ -33,7 +24,7 @@ https://livestreamdirect-threelife.mediaworks.nz/threelife.m3u8
 #EXTINF:-1 tvg-id="tv.55" tvg-name="" tvg-logo="https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/TVNZDUKE1280x1280.png" group-title="New Zealand",DUKE
 https://du7f1mbeu4v4z.cloudfront.net/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/aljazeera.png" group-title="New Zealand",Al Jazeera
+#EXTINF:-1 tvg-id="tv.46" tvg-name="" tvg-logo="https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/aljazeera.png" group-title="New Zealand",Al Jazeera
 https://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
 
 #EXTINF:-1 tvg-name="ZM (Radio)" tvg-id="radio.ih.6190" tvg-logo="http://iptv.matthuisman.nz/nz/images/radio.ih.6190.png" radio="true",ZM
@@ -68,3 +59,6 @@ http://109.236.94.191:8000/fire/fire1/538
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/30/Nick_HD_2009.svg/revision/latest/scale-to-width-down/200?cb=20160417103412" group-title="USA",NICK HD
 http://109.236.94.191:8000/fire/fire1/555
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0e/Disney_Channel_HD_2017.svg/revision/latest/scale-to-width-down/200?cb=20180412093713" group-title="USA",Disney HD
+http://109.236.94.191:8000/fire/fire1/2140

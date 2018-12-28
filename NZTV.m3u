@@ -24,7 +24,8 @@ https://du7f1mbeu4v4z.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/aljazeera.png" group-title="New Zealand",Al Jazeera
 https://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
 
-
+#EXTINF:-1 tvg-name="ZM (Radio)" tvg-id="radio.ih.6190" tvg-logo="http://iptv.matthuisman.nz/nz/images/radio.ih.6190.png" radio="true",ZM
+http://iptv.matthuisman.nz/nz/radio.ih.6190
 
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-N3VQH-8mFZw/VGX12e-t8zI/AAAAAAABjn0/1N1gT9-M0gY/s1600/network%2B-%2Bcbs.jpg" group-title="USA",CBS

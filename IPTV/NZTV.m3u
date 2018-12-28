@@ -1,0 +1,57 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="tv.9" tvg-name="" tvg-logo="https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/TVNZ11280x1280.png" group-title="New Zealand",TV ONE
+https://d2vbukhvwwnst7.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-id="tv.10" tvg-name="" tvg-logo="https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/TVNZ21280x1280.png" group-title="New Zealand",TV 2
+https://ditqhbg3dqptg.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-id="tv.11" tvg-name="" tvg-logo="https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/Web_THREE_1280x1280.png" group-title="New Zealand",THREE
+https://livestreamdirect-three.mediaworks.nz/three.m3u8
+
+#EXTINF:-1 tvg-id="tv.12" tvg-name="" tvg-logo="https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/2_FVsite_Bravo_1280x1280.png" group-title="New Zealand",BRAVO
+https://livestreamdirect-bravo.mediaworks.nz/bravo.m3u8
+
+#EXTINF:-1 tvg-id="tv.51" tvg-name="" tvg-logo="https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/TheEdge-Web-1.png" group-title="New Zealand",EDGETV
+https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
+
+#EXTINF:-1 tvg-id="tv.65" tvg-name="" tvg-logo="https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/Threelife_FULLCOLOUR_1280x1280_FreeviewWebsite.png" group-title="New Zealand",THREE LIFE
+https://livestreamdirect-threelife.mediaworks.nz/threelife.m3u8
+
+#EXTINF:-1 tvg-id="tv.55" tvg-name="" tvg-logo="https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/TVNZDUKE1280x1280.png" group-title="New Zealand",DUKE
+https://du7f1mbeu4v4z.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/aljazeera.png" group-title="New Zealand",Al Jazeera
+https://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-N3VQH-8mFZw/VGX12e-t8zI/AAAAAAABjn0/1N1gT9-M0gY/s1600/network%2B-%2Bcbs.jpg" group-title="USA",CBS
+http://tv.bmx-tv.top:1935/live/33.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.watchtheamericans.com/wp-content/uploads/2013/11/fx-tv-channel-logo.jpg" group-title="USA",FX
+http://ns532250.ip-192-99-18.net:8000/live/main/main/382.ts
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/1200px-Comedy_Central_2011_Logo.svg.png" group-title="USA",Comedy Central
+http://51.38.52.154:8080/kaptan/2018/38933
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="USA",HBO
+http://109.236.94.191:8000/fire/fire1/616
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/1200px-The_CW.svg.png" group-title="USA",CW
+http://109.236.94.191:8000/fire/fire1/1148
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/New_abc_gold.svg/1200px-New_abc_gold.svg.png" group-title="USA",ABC
+http://212.32.236.129:12580/live/kingnabil/171717/4780.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1200px-Showtime.svg.png" group-title="USA",Showtime
+http://109.236.94.191:8000/fire/fire1/586
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/250?cb=20180106214524" group-title="USA",Cartoon Network
+http://109.236.94.191:8000/fire/fire1/538
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/30/Nick_HD_2009.svg/revision/latest/scale-to-width-down/200?cb=20160417103412" group-title="USA",NICK HD
+http://109.236.94.191:8000/fire/fire1/555

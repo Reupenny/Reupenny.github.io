@@ -1,38 +1,38 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tv.9" tvg-name="" tvg-logo="https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/TVNZ11280x1280.png" group-title="New Zealand",TV ONE
+#EXTINF:-1 tvg-id="tv.9" tvg-name="" tvg-logo="https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/TVNZ11280x1280.png" group-title="TV",TV ONE
 https://d2vbukhvwwnst7.cloudfront.net/master.m3u8
 
-#EXTINF:-1 tvg-id="tv.10" tvg-name="" tvg-logo="https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/TVNZ21280x1280.png" group-title="New Zealand",TV TWO
+#EXTINF:-1 tvg-id="tv.10" tvg-name="" tvg-logo="https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/TVNZ21280x1280.png" group-title="TV",TV TWO
 https://ditqhbg3dqptg.cloudfront.net/master.m3u8
 
-#EXTINF:-1 tvg-id="tv.11" tvg-name="" tvg-logo="https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/Web_THREE_1280x1280.png" group-title="New Zealand",THREE
+#EXTINF:-1 tvg-id="tv.11" tvg-name="" tvg-logo="https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/Web_THREE_1280x1280.png" group-title="TV",THREE
 https://livestreamdirect-three.mediaworks.nz/three.m3u8
 
-#EXTINF:-1 tvg-id="tv.12" tvg-name="" tvg-logo="https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/2_FVsite_Bravo_1280x1280.png" group-title="New Zealand",BRAVO
+#EXTINF:-1 tvg-id="tv.12" tvg-name="" tvg-logo="https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/2_FVsite_Bravo_1280x1280.png" group-title="TV",BRAVO
 https://livestreamdirect-bravo.mediaworks.nz/bravo.m3u8
 
-#EXTINF:-1 tvg-id="tv.13" tvg-name="" tvg-logo="http://iptv.matthuisman.nz/nz/images/tv.13.png" group-title="New Zealand",Māori Television
+#EXTINF:-1 tvg-id="tv.13" tvg-name="" tvg-logo="http://iptv.matthuisman.nz/nz/images/tv.13.png" group-title="TV",Māori Television
 http://iptv.matthuisman.nz/nz/tv.13.m3u8
 
-#EXTINF:-1 tvg-id="tv.51" tvg-name="" tvg-logo="https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/TheEdge-Web-1.png" group-title="New Zealand",EDGETV
+#EXTINF:-1 tvg-id="tv.51" tvg-name="" tvg-logo="https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/TheEdge-Web-1.png" group-title="TV",EDGETV
 https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
 
-#EXTINF:-1 tvg-id="tv.65" tvg-name="" tvg-logo="https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/Threelife_FULLCOLOUR_1280x1280_FreeviewWebsite.png" group-title="New Zealand",THREE LIFE
+#EXTINF:-1 tvg-id="tv.65" tvg-name="" tvg-logo="https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/Threelife_FULLCOLOUR_1280x1280_FreeviewWebsite.png" group-title="TV",THREE LIFE
 https://livestreamdirect-threelife.mediaworks.nz/threelife.m3u8
 
-#EXTINF:-1 tvg-id="tv.55" tvg-name="" tvg-logo="https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/TVNZDUKE1280x1280.png" group-title="New Zealand",DUKE
+#EXTINF:-1 tvg-id="tv.55" tvg-name="" tvg-logo="https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/TVNZDUKE1280x1280.png" group-title="TV",DUKE
 https://du7f1mbeu4v4z.cloudfront.net/master.m3u8
 
-#EXTINF:-1 tvg-id="tv.46" tvg-name="" tvg-logo="https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/aljazeera.png" group-title="New Zealand",Al Jazeera
+#EXTINF:-1 tvg-id="tv.46" tvg-name="" tvg-logo="https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/aljazeera.png" group-title="TV",Al Jazeera
 https://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
 
-#EXTINF:-1 tvg-name="ZM (Radio)" tvg-id="radio.ih.6190" tvg-logo="http://iptv.matthuisman.nz/nz/images/radio.ih.6190.png" radio="true",ZM
+#EXTINF:-1 tvg-name="ZM (Radio)" tvg-id="radio.ih.6190" tvg-logo="http://iptv.matthuisman.nz/nz/images/radio.ih.6190.png" radio="true" group-title="Radio",ZM
 http://iptv.matthuisman.nz/nz/radio.ih.6190
 
-#EXTINF:-1 tvg-name="ZM Friday Jams" tvg-id="radio.ih.7316" tvg-logo="http://iptv.matthuisman.nz/nz/images/radio.ih.7316.png" radio="true",ZM Friday Jams
+#EXTINF:-1 tvg-name="ZM Friday Jams" tvg-id="radio.ih.7316" tvg-logo="http://iptv.matthuisman.nz/nz/images/radio.ih.7316.png" radio="true" group-title="Radio",ZM Friday Jams
 http://iptv.matthuisman.nz/nz/radio.ih.7316
 
-#EXTINF:-1 tvg-name="The Hits Christchurch" tvg-id="radio.ih.6199" tvg-logo="http://iptv.matthuisman.nz/nz/images/radio.ih.6199.png" radio="true",The Hits Christchurch
+#EXTINF:-1 tvg-name="The Hits Christchurch" tvg-id="radio.ih.6199" tvg-logo="http://iptv.matthuisman.nz/nz/images/radio.ih.6199.png" radio="true" group-title="Radio",The Hits Christchurch
 http://iptv.matthuisman.nz/nz/radio.ih.6199
 

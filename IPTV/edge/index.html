@@ -1,36 +1,32 @@
-<html lang="en">
+<html lang="en" manifest="offline.appcache">
     <head>
+        <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no" />
+        <title>EDGE TV</title>
         <meta charset=utf-8/>
-        <title>The Edge</title>
-        <link rel="stylesheet" href="../../css/styles.css">
-        <link rel="stylesheet" href="../style.css">
+        <link rel="stylesheet" href="../css/styles.css">
     </head>
     <body>
          <div id="mySidenav" class="sidenav">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
   <iframe style="border:none;" width="100%" height="100%" src="http://www.freeviewnz.tv/tvguide/whats-on/"></iframe>
 </div>
-        <div class="boxa">
-            <div class="boxb">
-
-                <div class="tv" width="auto"><a href="../../index.html" onclick="OpenLink(this); return false"><img src="../Images/home.png" height="90px"></a></div>
-                <div class="tv" width="auto"><a><span style="font-size:30px;cursor:pointer" onclick="openNav()"><img src="../Images/guide.png" height="90px"></span></a></div>
-                <div class="tv" width="auto"><a href="../one/index.html" onclick="OpenLink(this); return false"><img src="../Images/TV1.svg" height="90px"></a></div>
-                <div class="tv"><a href="../two/index.html" onclick="OpenLink(this); return false"><img src="../Images/TV2.svg" height="90px"></a></div>
-                <div class="tv"><a href="../three/index.html" onclick="OpenLink(this); return false"><img src="../Images/three.png" height="90px"></a></div>
-                <div class="tv"><a href="../bravo/index.html" onclick="OpenLink(this); return false"><img src="../Images/Bravo.png" height="90px"></a></div>
-                <div class="tv"><a class="select" href="../edge/index.html" onclick="OpenLink(this); return false"><img src="../Images/edge.png" height="90px"></a></div>
-                <div class="tv"><a href="../duke/index.html" onclick="OpenLink(this); return false"><img src="../Images/Duke.svg" height="90px"></a></div>
-                <div class="tv"><a href="../aljazeera/index.html" onclick="OpenLink(this); return false"><img src="../Images/aljazeera.png" height="100px"></a></div>
-    </div>
-</div>
-<br>
-            <video width="100%" height="85%" src="https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8" controls autoplay>
+        <video src="https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8" controls autoplay>
             </video>
+        <ul>
+            <li><a><span style="font-size:30px;cursor:pointer" onclick="openNav()"><img src="../Images/guide.png" height="90px"></span></a></li>
+            <li><a href="../index.html" onclick="OpenLink(this); return false"><img src="../Images/TV1.svg" height="90px"></a></li>
+            <li><a href="../two/index.html" onclick="OpenLink(this); return false"><img src="../Images/TV2.svg" height="90px"></a></li>
+            <li><a href="../three/index.html" onclick="OpenLink(this); return false"><img src="../Images/three.png" height="90px"></a></li>
+            <li><a href="../bravo/index.html" onclick="OpenLink(this); return false"><img src="../Images/Bravo.png" height="90px"></a></li>
+            <li><a href="../edge/index.html" onclick="OpenLink(this); return false"><img src="../Images/edge.png" height="90px"></a></li>
+            <li><a href="../duke/index.html" onclick="OpenLink(this); return false"><img src="../Images/Duke.svg" height="90px"></a></li>
+            <li><a href="../aljazeera/index.html" onclick="OpenLink(this); return false"><img src="../Images/aljazeera.png" height="100px"></a></li>
+        </ul>
+            
  
 <script>
 function openNav() {
-    document.getElementById("mySidenav").style.width = "600px";
+    document.getElementById("mySidenav").style.width = "50%";
 }
 
 function closeNav() {
@@ -39,6 +35,3 @@ function closeNav() {
 </script>
     </body>
 </html>
-
-
-

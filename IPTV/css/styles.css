@@ -1,0 +1,76 @@
+*   {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+html    {
+    background-color:black;   
+}
+
+body    {
+}
+
+li  {
+    width: 12.5%;
+    -webkit-filter: blur(0px);
+   -moz-filter: blur(0px);
+   -o-filter: blur(0px);
+   -ms-filter: blur(0px);
+   filter: blur(0px);
+    -webkit-transition: .5s;
+    transition: .5s;
+}
+
+li:hover    {
+    -webkit-filter: blur(2px);
+   -moz-filter: blur(2px);
+   -o-filter: blur(2px);
+   -ms-filter: blur(2px);
+   filter: blur(2px);
+}
+ul  {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+}
+
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+video   {
+    width: 95%;
+    height: 100%;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+}
